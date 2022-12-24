@@ -3,7 +3,7 @@
 
 ## About me
 
-* 💡 I'm a 24 years old curious woman, who enjoys to know how everything is made
+* 💡 I'm a 24 years old curious woman, who enjoys to know how all things are made
 
 * 🧠 I have a Bachelor in Psychology
 

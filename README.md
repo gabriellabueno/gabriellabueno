@@ -5,9 +5,10 @@
 
 * 💡 I'm a 24 years old curious woman, who enjoys to know how all things are made
 
+* 📚	Studying Systems Analysis and Development at FATEC Guarulhos (Technological College)
+
 * 🧠 I have a Bachelor in Psychology
 
-* 💻 I’m getting into the Technology field as Front-end developer
 
 
 <div align="center">

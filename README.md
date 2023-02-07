@@ -1,9 +1,9 @@
 
-* 💡 A curious woman who enjoys to know how all things are made
-
 * 📚	Systems Analysis and Development Student (FATEC Guarulhos)
 
 * 🧠 Bachelor in Psychology
+
+* 💡 A curious woman who enjoys to know how all things are made
 
 * 💪🏻 What I don't know, give me a few days
 

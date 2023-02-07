@@ -1,7 +1,7 @@
 
 * 💡 A curious woman who enjoys to know how all things are made
 
-* 📚	Systems Analysis and Development Studet (FATEC Guarulhos)
+* 📚	Systems Analysis and Development Student (FATEC Guarulhos)
 
 * 🧠 Bachelor in Psychology
 

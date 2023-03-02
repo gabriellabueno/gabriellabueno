@@ -14,12 +14,12 @@
 </div>
 
 ***
-  
+
 <div align="center">
 
 Skills | Studying |
 :---:  | :---:    | 
-![GIT](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white "Sistema de Controle de Versão") ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white "Editor de Código") ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "Linguagem de Marcação") ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "Linguagem de Estilo") | ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white "Linguagem de Scripts") |
+<a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" target="blank"></a> <a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="blank"></a> <a href="https://html.spec.whatwg.org" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="blank"></a> <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="blank"></a> | <a href="https://brasil.js.org" target="_blank"><img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" target="blank"></a> 
 
 </div>  
 

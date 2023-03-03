@@ -1,9 +1,9 @@
 
-* Systems Analysis and Development Student :books:  
+* :books: Systems Analysis and Development Student 
 
-* Bachelor in Psychology :brain:  
+* :brain: Bachelor in Psychology  
 
-* A curious woman who enjoys to know how all things are made :bulb:  
+* :bulb: A curious woman who enjoys to know how all things are made  
 
 `What I don't know, give me a few days!`
 

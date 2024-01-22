@@ -1,34 +1,48 @@
-# GABRIELLA BUENO
+<div align="center">
 
-`What I don't know... give me a few days!` 
+# Gabriella Bueno  
 
-<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="380px" width="380px">
+[![Email Badge](https://img.shields.io/badge/-gabriellacbueno@outlook.com-2B283A?style=for-the-badge&logo=microsoft-outlook&logwhiteor=white)](mailto:gabriellacbueno@outlook.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriella%20Bueno-2B283A?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriella-c-bueno)  
 
-## About Me
+</div> 
 
-:books:  Systems Analysis and Development Student  
-
-:brain:  Bachelor's Degree in Psychology  
-
-:bulb:  A curious woman who enjoys to know how all things are made  
-
-### Technologies
-
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org)  [![CSS](https://img.shields.io/badge/CSS-3A76F0?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/TR/css3-roadmap/)  [![C](https://img.shields.io/badge/Language-323330?style=for-the-badge&logo=C&logoColor=white)](https://www.open-std.org/jtc1/sc22/wg14/)  [![C++](https://img.shields.io/badge/%2B%2B-0D597F?style=for-the-badge&logo=c&logoColor=white
-)](https://cplusplus.com)  [![C#](https://img.shields.io/badge/%23-5C2D91?style=for-the-badge&logo=c&logoColor=white)](https://dotnet.microsoft.com/pt-br/languages/csharp)  
-</div>
+ <a href="https://github.com/gabriellabueno">
+ <img src="https://64.media.tumblr.com/32ab172f67f905f84204592c8a705e9d/tumblr_n72ytbDFFE1qza1qzo1_500.gif" min-width="350px" max-width="350px" width="350" align="right">
+ </a>
   
-### Projects
-  
-[![Eletronic Die](https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=Dado-Eletronico&theme=tokyonight)](https://github.com/gabriellabueno/Dado-Eletronico/blob/main/English-Translation.md)
-
----
+- Systems Analysis and Development Student  
+    _3rd semester_  
+- Bachelor's Degree in Psychology  
 
 <div align="center">
 
-## Contact
+ ## Skills
 
-[![Email Badge](https://img.shields.io/badge/-gabriellacbueno@outlook.com-black?style=for-the-badge&logo=microsoft-outlook&logwhiteor=white)](mailto:gabriellacbueno@outlook.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Gabriella%20Bueno-430098?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriella-c-bueno)  
+</div>
+
+**Front-End**  
+[![HTML](https://img.shields.io/badge/HTML-C71D23?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org) 
+[![CSS](https://img.shields.io/badge/CSS-003791?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/TR/css3-roadmap/) 
+[![JavaScript](https://img.shields.io/badge/JavaScript-FCC624?style=for-the-badge&logo=javascript&logoColor=323330)](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
+[![Figma](https://img.shields.io/badge/Figma-FF3366?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+
+**Programming Languages**  
+[![C](https://img.shields.io/badge/Language-2d2e30?style=for-the-badge&logo=C&logoColor=white)](https://www.open-std.org/jtc1/sc22/wg14/) 
+[![C++](https://img.shields.io/badge/%2B%2B-143055?style=for-the-badge&logo=c&logoColor=white)](https://cplusplus.com) 
+[![C#](https://img.shields.io/badge/%23-632CA6?style=for-the-badge&logo=c&logoColor=white)](https://dotnet.microsoft.com/pt-br/languages/csharp)  
+
+**Other Technologies**  
+[![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)](https://www.linuxfoundation.org/) 
+[![Shell Script](https://img.shields.io/badge/Shell_Script-1A2C34?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Git](https://img.shields.io/badge/git-%23fc4c2c.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
+
+<div align="center">
+  
+## Projects
+
+[![Eletronic Die](https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=Dado-Eletronico&theme=tokyonight)](https://github.com/gabriellabueno/Dado-Eletronico/blob/main/English-Translation.md)  [![Bibliotec](https://github-readme-stats.vercel.app/api/pin/?username=g-Barsani&repo=Bibliotec&theme=tokyonight)](https://github.com/Barsani/Bibliotec/blob/main/README.md)
+ 
+`What I don't know... Give me a few days 💪`
 
 </div>

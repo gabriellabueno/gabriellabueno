@@ -44,7 +44,7 @@
  
 ## Projects
 
-[![Spotify Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=spotify-home&theme=tokyonight)](https://github.com/gabriellabueno/spotify-imersao-alura/?tab=readme-ov-file#headphones-purple-spotify) 
+[![Spotify Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=spotify-home&theme=tokyonight)](https://github.com/gabriellabueno/spotify-imersao-alura/?tab=readme-ov-file#headphones-purple-spotify)   
 [![Eletronic Die](https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=electronic-die&theme=tokyonight)](https://github.com/gabriellabueno/electronic-die/blob/main/English-Translation.md)
 [![Bibliotec](https://github-readme-stats.vercel.app/api/pin/?username=g-Barsani&repo=Bibliotec&theme=tokyonight)](https://github.com/Barsani/Bibliotec/blob/main/README.md)
  

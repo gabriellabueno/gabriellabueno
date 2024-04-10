@@ -3,21 +3,29 @@
 
 # Gabriella Bueno  
 
-</div> 
+[![Email Badge](https://img.shields.io/badge/MAIL-402D5C?style=social&logo=microsoft-outlook&logoColor=purple)](mailto:gabriellacbueno@outlook.com) 
+ㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ  ㅤㅤㅤㅤㅤ [![Linkedin Badge](https://img.shields.io/badge/CONECT-402D5C?style=social&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/gabriella-c-bueno)  
+ㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ  ㅤㅤ
 
- <a href="https://github.com/gabriellabueno">
+</div>
+
+<a href="https://github.com/gabriellabueno">
  <img src="https://64.media.tumblr.com/32ab172f67f905f84204592c8a705e9d/tumblr_n72ytbDFFE1qza1qzo1_500.gif" min-width="350px" max-width="350px" width="350" align="right">
- </a>
+</a>
+ 
+✦ Systems Analysis and Development Student  
   
-🖥️ Systems Analysis and Development Student  
-  
-🧠 Bachelor's Degree in Psychology  
+✦ Bachelor's Degree in Psychology  
 
-💡 Enjoys exploring the layers of Technology, **beyond** abstraction  
+✦ Enjoys exploring the layers of Technology, beyond abstraction  
+
+
 
 <div align="center">
 
- ### Skills
+---
+
+### Skills
 
 </div>
 
@@ -25,7 +33,7 @@
 
 [![HTML](https://img.shields.io/badge/HTML-C71D23?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org) 
 [![CSS](https://img.shields.io/badge/CSS-003791?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/TR/css3-roadmap/) 
-[![JavaScript](https://img.shields.io/badge/JavaScript-FCC624?style=for-the-badge&logo=javascript&logoColor=323330)](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-FCC624?style=for-the-badge&logo=javascript&logoColor=323330&)](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
 
 #### Programming Languages  
 
@@ -39,22 +47,14 @@
 [![Git](https://img.shields.io/badge/git-%23fc4c2c.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
 
 <div align="center">
+
+---
  
-## Projects
+### Projects
 
 [![Spotify Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=spotify-home&theme=tokyonight)](https://github.com/gabriellabueno/spotify-imersao-alura/?tab=readme-ov-file#headphones-purple-spotify)   
 [![Eletronic Die](https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=electronic-die&theme=tokyonight)](https://github.com/gabriellabueno/electronic-die/blob/main/English-Translation.md)
 [![Bibliotec](https://github-readme-stats.vercel.app/api/pin/?username=g-Barsani&repo=Bibliotec&theme=tokyonight)](https://github.com/Barsani/Bibliotec/blob/main/README.md)
- 
-</div>
-
-<div align="center">
- 
-## Contact
-
-[![Email Badge](https://img.shields.io/badge/-send%20email-2B283A?style=for-the-badge&logo=microsoft-outlook&logwhiteor=white)](mailto:gabriellacbueno@outlook.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-2B283A?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriella-c-bueno)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellabueno&layout=donut&theme=tokyonight)](https://github.com/gabriellabueno/github-readme-stats)
 
-</div>

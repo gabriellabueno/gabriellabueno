@@ -4,7 +4,7 @@
 # Gabriella Bueno  
 
 [![Email Badge](https://img.shields.io/badge/MAIL-402D5C?style=social&logo=microsoft-outlook&logoColor=purple)](mailto:gabriellacbueno@outlook.com) 
-ㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ  ㅤㅤㅤㅤㅤ [![Linkedin Badge](https://img.shields.io/badge/CONECT-402D5C?style=social&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/gabriella-c-bueno)  
+ㅤ [![Linkedin Badge](https://img.shields.io/badge/CONECT-402D5C?style=social&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/gabriella-c-bueno)  
 ㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ  ㅤㅤ
 
 </div>

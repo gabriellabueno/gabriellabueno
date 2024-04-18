@@ -38,7 +38,8 @@
 #### Programming Languages  
 
 [![C](https://img.shields.io/badge/Language-2d2e30?style=for-the-badge&logo=C&logoColor=white)](https://www.open-std.org/jtc1/sc22/wg14/) 
-[![C#](https://img.shields.io/badge/%23-632CA6?style=for-the-badge&logo=c&logoColor=white)](https://dotnet.microsoft.com/pt-br/languages/csharp)  
+[![C#](https://img.shields.io/badge/%23-632CA6?style=for-the-badge&logo=c&logoColor=white)](https://dotnet.microsoft.com/pt-br/languages/csharp)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=coffeescript&logoColor=white&)](https://www.java.com/pt-BR/)
 
 #### Other Technologies  
 

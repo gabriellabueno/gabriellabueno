@@ -3,8 +3,8 @@
 
 # Gabriella Bueno  
 
-[![Email Badge](https://img.shields.io/badge/EMAIL-402D5C?style=social&logo=microsoft-outlook&logoColor=purple)](mailto:gabriellacbueno@outlook.com) 
-ㅤ [![Linkedin Badge](https://img.shields.io/badge/CONECTAR-402D5C?style=social&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/gabriella-c-bueno)  
+[![Email Badge](https://img.shields.io/badge/MAIL-402D5C?style=social&logo=microsoft-outlook&logoColor=purple)](mailto:gabriellacbueno@outlook.com) 
+ㅤ [![Linkedin Badge](https://img.shields.io/badge/CONECT-402D5C?style=social&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/gabriella-c-bueno)  
 ㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ  ㅤㅤ
 
 </div>
@@ -13,11 +13,11 @@
  <img src="https://64.media.tumblr.com/32ab172f67f905f84204592c8a705e9d/tumblr_n72ytbDFFE1qza1qzo1_500.gif" min-width="350px" max-width="350px" width="350" align="right">
 </a>
  
-✦ Estudante de Análise e Desenvolvimento de Sistemas
+✦ Systems Analysis and Development Student  
   
-✦ Bacharel em Psicologia
+✦ Bachelor in Psychology  
 
-✦ Gosto de explorar todas as camadas da Tecnologia, além da abstração
+✦ Enjoys exploring all layers of Technology, beyond abstraction  
 
 
 <div align="center">
@@ -34,13 +34,13 @@
 [![CSS](https://img.shields.io/badge/CSS-003791?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/TR/css3-roadmap/) 
 [![JavaScript](https://img.shields.io/badge/JavaScript-FCC624?style=for-the-badge&logo=javascript&logoColor=323330&)](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
 
-#### Linguagens de Programação
+#### Programming Languages
 
 [![C](https://img.shields.io/badge/Language-2d2e30?style=for-the-badge&logo=C&logoColor=white)](https://www.open-std.org/jtc1/sc22/wg14/) 
 [![C#](https://img.shields.io/badge/%23-632CA6?style=for-the-badge&logo=c&logoColor=white)](https://dotnet.microsoft.com/pt-br/languages/csharp)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=coffeescript&logoColor=white&)](https://www.java.com/pt-BR/)
 
-#### Outras Tecnologias
+#### Other Technologies
 
 [![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)](https://www.linuxfoundation.org/) 
 [![Shell Script](https://img.shields.io/badge/Shell_Script-1A2C34?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
@@ -50,7 +50,7 @@
 
 ---
  
-### Projetos
+### Projects
 
 [![Cat Jump](https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=cat-jump&theme=tokyonight)](https://github.com/gabriellabueno/cat-jump) 
 [![Spotify Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=spotify-home&theme=tokyonight)](https://github.com/gabriellabueno/spotify-imersao-alura/)   
@@ -61,7 +61,7 @@
 
 ---
 
-### Arquivo de Estudo
+### IT Study Archive
 
 [![ARQUIVO TI](https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=ARQUIVO-TI&theme=tokyonight)](https://github.com/gabriellabueno/ARQUIVO-TI)
 

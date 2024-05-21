@@ -13,11 +13,11 @@
  <img src="https://64.media.tumblr.com/32ab172f67f905f84204592c8a705e9d/tumblr_n72ytbDFFE1qza1qzo1_500.gif" min-width="350px" max-width="350px" width="350" align="right">
 </a>
  
-✦ Systems Analysis and Development Student  
+- Systems Analysis and Development Student  
   
-✦ Bachelor in Psychology  
+- Bachelor in Psychology  
 
-✦ Enjoys exploring all layers of Technology, beyond abstraction  
+- Enjoys exploring all layers of Technology, beyond abstraction  
 
 
 <div align="center">
@@ -30,15 +30,15 @@
 
 #### Front-End
 
-[![HTML](https://img.shields.io/badge/HTML-C71D23?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org) 
-[![CSS](https://img.shields.io/badge/CSS-003791?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/TR/css3-roadmap/) 
+[![HTML](https://img.shields.io/badge/HTML-CA4245?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org) 
+[![CSS](https://img.shields.io/badge/CSS-0769AD?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/TR/css3-roadmap/) 
 [![JavaScript](https://img.shields.io/badge/JavaScript-FCC624?style=for-the-badge&logo=javascript&logoColor=323330&)](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
 
 #### Programming Languages
 
-[![C](https://img.shields.io/badge/Language-2d2e30?style=for-the-badge&logo=C&logoColor=white)](https://www.open-std.org/jtc1/sc22/wg14/) 
+[![C](https://img.shields.io/badge/-2d2e30?style=for-the-badge&logo=C&logoColor=white)](https://www.open-std.org/jtc1/sc22/wg14/) 
 [![C#](https://img.shields.io/badge/%23-632CA6?style=for-the-badge&logo=c&logoColor=white)](https://dotnet.microsoft.com/pt-br/languages/csharp)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=coffeescript&logoColor=white&)](https://www.java.com/pt-BR/)
+[![Java](https://img.shields.io/badge/Java-%23C71D23?style=for-the-badge&logo=coffeescript&logoColor=white&)](https://www.java.com/pt-BR/)
 
 #### Other Technologies
 
@@ -52,16 +52,13 @@
  
 ### Projects
 
+| [![IT Archive GitBook](https://img.shields.io/badge/IT%20Archive-0a897b?style=for-the-badge)](https://gabriella-bueno.gitbook.io/it-archive) |   
+| --- |   
+| Digital archive to store and share my study notes |  
+
 [![Cat Jump](https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=cat-jump&theme=tokyonight)](https://github.com/gabriellabueno/cat-jump) 
 [![Spotify Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=spotify-home&theme=tokyonight)](https://github.com/gabriellabueno/spotify-imersao-alura/)   
 [![Eletronic Die](https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=electronic-die&theme=tokyonight)](https://github.com/gabriellabueno/electronic-die/)
 [![Bibliotec](https://github-readme-stats.vercel.app/api/pin/?username=g-Barsani&repo=Bibliotec&theme=tokyonight)](https://github.com/g-Barsani/Bibliotec/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellabueno&layout=donut&theme=tokyonight)](https://github.com/gabriellabueno/github-readme-stats)
-
----
-
-### IT Study Archive
-
-[![ARQUIVO TI](https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=ARQUIVO-TI&theme=tokyonight)](https://github.com/gabriellabueno/ARQUIVO-TI)
-

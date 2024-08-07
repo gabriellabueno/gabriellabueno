@@ -3,7 +3,7 @@
 
 # Gabriella Bueno  
 
-[![Email Badge](https://img.shields.io/badge/MAIL-402D5C?style=social&logo=microsoft-outlook&logoColor=purple)](mailto:gabriellacbueno@outlook.com) 
+[![Email Badge](https://img.shields.io/badge/MAIL-402D5C?style=social&logo=gmail&logoColor=purple)](mailto:gabriellacbueno@outlook.com) 
 ㅤ [![Linkedin Badge](https://img.shields.io/badge/CONECT-402D5C?style=social&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/gabriella-c-bueno)  
 ㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ  ㅤㅤ
 
@@ -58,7 +58,8 @@
 
 [![Cat Jump](https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=cat-jump&theme=tokyonight)](https://github.com/gabriellabueno/cat-jump) 
 [![Spotify Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=spotify-home&theme=tokyonight)](https://github.com/gabriellabueno/spotify-imersao-alura/)   
-[![Eletronic Die](https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=electronic-die&theme=tokyonight)](https://github.com/gabriellabueno/electronic-die/)
-[![Bibliotec](https://github-readme-stats.vercel.app/api/pin/?username=g-Barsani&repo=Bibliotec&theme=tokyonight)](https://github.com/g-Barsani/Bibliotec/)
+[![Bibliotec](https://github-readme-stats.vercel.app/api/pin/?username=g-Barsani&repo=Bibliotec&theme=tokyonight)](https://github.com/g-Barsani/Bibliotec/) 
+[![Eletronic Die](https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=java-backend-bootcamp&theme=tokyonight)](https://github.com/gabriellabueno/java-backend-bootcamp/)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellabueno&layout=donut&theme=tokyonight)](https://github.com/gabriellabueno/github-readme-stats)

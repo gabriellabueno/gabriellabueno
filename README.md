@@ -52,7 +52,7 @@
  
 ### Projects
 
-| [![IT Archive GitBook](https://img.shields.io/badge/IT%20Archive-0a897b?style=for-the-badge)](https://gabriella-bueno.gitbook.io/it-archive) |   
+| [![IT Archive GitBook](https://img.shields.io/badge/IT%20Archive-0a897b?style=for-the-badge)](https://gcbueno.gitbook.io/it-archive) |   
 | --- |   
 | Digital archive to store and share my study notes |  
 

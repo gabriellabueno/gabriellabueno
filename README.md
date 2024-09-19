@@ -17,7 +17,9 @@
   
 - Bachelor in Psychology  
 
-- Enjoys exploring all layers of Technology, beyond abstraction  
+- Enjoys exploring all layers of Technology, beyond abstraction
+
+- Currently working as a freelancer in Technical Support
 
 
 <div align="center">

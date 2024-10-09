@@ -3,7 +3,7 @@
 
 # Gabriella Bueno  
 
-[![Email Badge](https://img.shields.io/badge/MAIL-402D5C?style=social&logo=gmail&logoColor=purple)](mailto:gabriellacbueno@outlook.com) 
+[![Email Badge](https://img.shields.io/badge/MAIL-402D5C?style=social&logo=gmail&logoColor=27293a)](mailto:gabriellacbueno@outlook.com) 
 ㅤ [![Linkedin Badge](https://img.shields.io/badge/CONECT-402D5C?style=social&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/gabriella-c-bueno)  
 ㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ  ㅤㅤ
 
@@ -43,10 +43,10 @@
 [![Java](https://img.shields.io/badge/Java-%23C71D23?style=for-the-badge&logo=coffeescript&logoColor=white&)](https://www.java.com/pt-BR/)
 
 #### Other Technologies
-
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+[![Git](https://img.shields.io/badge/git-%23fc4c2c.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) 
 [![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)](https://www.linuxfoundation.org/) 
-[![Shell Script](https://img.shields.io/badge/Shell_Script-1A2C34?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![Git](https://img.shields.io/badge/git-%23fc4c2c.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
+[![Arduino](https://img.shields.io/badge/-Arduino-018c91?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc)
 
 <div align="center">
 
@@ -54,7 +54,7 @@
  
 ### Projects
 
-| [![IT Archive GitBook](https://img.shields.io/badge/IT%20Archive-0a897b?style=for-the-badge)](https://gcbueno.gitbook.io/it-archive) |   
+| [![IT Archive GitBook](https://img.shields.io/badge/IT%20Archive-27293a?style=for-the-badge)](https://gcbueno.gitbook.io/it-archive) |   
 | --- |   
 | Digital archive to store and share my study notes |  
 

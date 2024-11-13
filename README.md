@@ -54,13 +54,13 @@
 
 ### Projects 💾
 
-[![IT Archive GitBook](https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=ARQUIVO-TI&theme=tokyonight)](https://gcbueno.gitbook.io/it-archive)
+[![IT Archive GitBook](https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=ARQUIVO-TI&theme=tokyonight)](https://gcbueno.gitbook.io/it-archive)  
 
+[![Controle de Acesso](https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=controle-de-acesso&theme=tokyonight)](https://github.com/gabriellabueno/controle-de-acesso/) 
+[![APP Saúde em Dia](https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=saude-em-dia&theme=tokyonight)](https://github.com/gabriellabueno/saude-em-dia/)
 
+[![Spotify Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=spotify-home&theme=tokyonight)](https://github.com/gabriellabueno/spotify-imersao-alura/) 
 [![Cat Jump](https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=cat-jump&theme=tokyonight)](https://github.com/gabriellabueno/cat-jump) 
-[![Spotify Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=spotify-home&theme=tokyonight)](https://github.com/gabriellabueno/spotify-imersao-alura/)   
-[![Java Bootcamp](https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=java-backend-bootcamp&theme=tokyonight)](https://github.com/gabriellabueno/java-backend-bootcamp/)
-[![Controle de Acesso](https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=controle-de-acesso&theme=tokyonight)](https://github.com/gabriellabueno/controle-de-acesso/)
 
 ***
  

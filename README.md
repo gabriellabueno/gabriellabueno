@@ -43,7 +43,7 @@
    [![C++](https://img.shields.io/badge/%2B%2B-00599C?style=for-the-badge&logo=c&logoColor=white)](https://dotnet.microsoft.com/pt-br/languages/csharp)
    [![Java](https://img.shields.io/badge/Java-%23C71D23?style=for-the-badge&logo=coffeescript&logoColor=white&)](https://www.java.com/pt-BR/)
    
-   #### Other Technologies
+   ### Other Technologies
    
    ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
    [![Git](https://img.shields.io/badge/git-%23fc4c2c.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) 

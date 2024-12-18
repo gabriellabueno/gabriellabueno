@@ -57,10 +57,12 @@
 <details>
   <summary><h2> Projects 🛠️ </h2></summary>
 
-[![IT Archive GitBook](https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=ARQUIVO-TI&theme=tokyonight)](https://gcbueno.gitbook.io/it-archive)  
-
+[![IT Archive GitBook](https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=ARQUIVO-TI&theme=tokyonight)](https://gcbueno.gitbook.io/it-archive) 
 [![Controle de Acesso](https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=controle-de-acesso&theme=tokyonight)](https://github.com/gabriellabueno/controle-de-acesso/) 
-[![APP Saúde em Dia](https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=saude-em-dia&theme=tokyonight)](https://github.com/gabriellabueno/saude-em-dia/)
+  
+[![APP Saúde em Dia](https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=saude-em-dia&theme=tokyonight)](https://github.com/gabriellabueno/saude-em-dia/) 
+[![APP Event Track](https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=controle-presenca-eventos&theme=tokyonight)](https://github.com/gabriellabueno/controle-presenca-eventos/)
+
 
 [![Spotify Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=spotify-home&theme=tokyonight)](https://github.com/gabriellabueno/spotify-imersao-alura/) 
 [![Cat Jump](https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=cat-jump&theme=tokyonight)](https://github.com/gabriellabueno/cat-jump) 

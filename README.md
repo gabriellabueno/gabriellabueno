@@ -3,8 +3,8 @@
 
   # Gabriella Bueno  
   
-  [![Email Badge](https://img.shields.io/badge/MAIL-2d314a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriellacbueno@outlook.com) 
-  ㅤ [![Linkedin Badge](https://img.shields.io/badge/LINKEDIN-2d314a?style=for-the-badge&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/gabriella-c-bueno)  
+  [![Email Badge](https://img.shields.io/badge/MAIL-2d314a?style=for-the-badge)](mailto:gabriellacbueno@outlook.com) 
+  ㅤ [![Linkedin Badge](https://img.shields.io/badge/LINKEDIN-2d314a?style=for-the-badge)](https://www.linkedin.com/in/gabriella-c-bueno)  
 ㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ  ㅤㅤ
 </div>
 

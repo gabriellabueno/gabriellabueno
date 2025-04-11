@@ -18,7 +18,7 @@
 
 - Bachelor's in Psychology   
 
-- Freelancer in Technical Support  
+- Technical Support Freelancer
 
 - Open to internships, freelance gigs, or tech partnerships.
 

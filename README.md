@@ -23,24 +23,26 @@
 - Open to internships, freelance gigs, or tech partnerships.
 
 
-
- <br>
- 
-`If you want someone who understands both code AND people,`   
-`let’s collaborate!`
-
 <br>
 
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellabueno&layout=donut&theme=tokyonight)](https://github.com/gabriellabueno/github-readme-stats)
+
+ <br>
+
+
+<div align="center">
+  <strong>
+    <code>If you want someone who understands both code AND people, let’s collaborate!</code>
+  </strong> 
+</div>
+
 
 ---
 
 <div align="center">
   
-  <details>
-    <summary><h2> Hard Skills 💪 </h2></summary>
+<details>
+  <summary><h2> Hard Skills 💪 </h2></summary>
     
   <table>
     <thead>
@@ -75,8 +77,8 @@
   ---
 
   
-  <details>
-    <summary><h2> Projects 🛠️ </h2></summary>
+<details>
+  <summary><h2> Projects 🛠️ </h2></summary>
   
   <table>
   <tr>
@@ -116,11 +118,12 @@
     </td>
   </tr>
 </table>
-
   
-  </details>
+</details>
+
 </div>
 
   
   ***
- 
+
+

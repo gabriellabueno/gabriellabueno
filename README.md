@@ -21,7 +21,8 @@
 - Open to internships, freelance gigs, or tech partnerships.
 
 
-`If you want someone who understands both code AND people, let’s collaborate!`
+`If you want someone who understands both code AND people,`   
+`let’s collaborate!`
 
 
 <br>

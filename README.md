@@ -31,9 +31,11 @@
 
 
 <div align="center">
-  <strong>
-    <code>If you want someone who understands both code AND people, let’s collaborate!</code>
-  </strong> 
+  
+  ```
+  If you're looking for someone who understands both code AND people, let’s collaborate!
+  ```
+  
 </div>
 
 

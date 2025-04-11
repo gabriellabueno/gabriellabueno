@@ -16,9 +16,9 @@
 
 - Systems Analysis and Development Student  ( 5/6 )
 
--  Bachelor's in Psychology   
+- Bachelor's in Psychology   
 
-- Currently working as a freelancer in Technical Support  
+- Freelancer in Technical Support  
 
 - Open to internships, freelance gigs, or tech partnerships.
 

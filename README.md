@@ -29,15 +29,13 @@
 
  <br>
 
-
 <div align="center">
   
-  ```
-  If you're looking for someone who understands both code AND people, let’s collaborate!
-  ```
-  
-</div>
+|     |
+| --- | 
+| `If you're looking for someone who understands both code AND people, let’s collaborate!` | 
 
+</div>
 
 ---
 

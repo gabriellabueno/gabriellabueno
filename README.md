@@ -8,9 +8,11 @@
 ㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ  ㅤㅤ
 </div>
 
+
 <a href="https://github.com/gabriellabueno">
  <img src="https://64.media.tumblr.com/32ab172f67f905f84204592c8a705e9d/tumblr_n72ytbDFFE1qza1qzo1_500.gif" min-width="350px" max-width="350px" width="350" align="right">
 </a>
+
 
 - Systems Analysis and Development Student  ( 5/6 )
 
@@ -21,12 +23,16 @@
 - Open to internships, freelance gigs, or tech partnerships.
 
 
+
+ <br>
+ 
 `If you want someone who understands both code AND people,`   
 `let’s collaborate!`
 
-
 <br>
- 
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellabueno&layout=donut&theme=tokyonight)](https://github.com/gabriellabueno/github-readme-stats)
 
 ---
@@ -36,7 +42,7 @@
   <details>
     <summary><h2> Hard Skills 💪 </h2></summary>
     
-  <table border="3">
+  <table>
     <thead>
       <tr>
         <th>Front-end</th>
@@ -64,8 +70,10 @@
   </table>
 
 </details>
+
   
   ---
+
   
   <details>
     <summary><h2> Projects 🛠️ </h2></summary>

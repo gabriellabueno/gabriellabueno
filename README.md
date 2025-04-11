@@ -20,12 +20,9 @@
 
 - Open to internships, freelance gigs, or tech partnerships.
 
-<table>
-  <th>
-      <code> If you want someone who understands both code AND people,</code> <br>
-        <code> let’s collaborate! </code>
-  </th>
-</table>
+
+`If you want someone who understands both code AND people, let’s collaborate!`
+
 
 <br>
  

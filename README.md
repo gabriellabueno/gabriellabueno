@@ -18,9 +18,7 @@
 
 - Bachelor's in Psychology   
 
-- Technical Support Freelancer
-
-- Open to internships, freelance gigs, or tech partnerships.
+- Technical Support Background
 
 
 <br>
@@ -29,13 +27,6 @@
 
  <br>
 
-<div align="center">
-  
-|     |
-| --- | 
-| `If you're looking for someone who understands both code AND people, let’s collaborate!` | 
-
-</div>
 
 ---
 

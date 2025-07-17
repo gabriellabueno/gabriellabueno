@@ -14,11 +14,13 @@
 </a>
 
 
-- Systems Analysis and Development Student  ( 5/6 )
+- Systems Analysis and Development Student
 
 - Bachelor's in Psychology   
 
 - Technical Support Background
+
+- Automation and Integration Developer at TalkBI
 
 
 <br>
@@ -29,38 +31,31 @@
 
 
 ---
-
-<div align="center">
-  
+ 
 <details>
   <summary><h2> Hard Skills 💪 </h2></summary>
-    
-  <table>
-    <thead>
-      <tr>
-        <th>Front-end</th>
-        <th>Languages</th>
-        <th>Technologies</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>HTML</td>
-        <td>C</td>
-        <td>MySQL</td>
-      </tr>
-      <tr>
-        <td>CSS</td>
-        <td>C++</td>
-        <td>Spring Framework</td>
-      </tr>
-      <tr>
-        <td>JavaScript</td>
-        <td>Java</td>
-        <td>Android Development</td>
-      </tr>
-    </tbody>
-  </table>
+
+</div>
+
+  ### Front-end
+- HTML / CSS
+- JavaScript
+- Thymeleaf
+- Bootstrap
+
+### Programming Languages
+- C
+- C++
+- Java
+
+### Technologies
+- MySQL
+- Spring Boot
+- Android / Mobile Development
+- n8n
+- Dify (AI)
+- Git
+- Windows / Linux
 
 </details>
 
@@ -70,12 +65,23 @@
   
 <details>
   <summary><h2> Projects 🛠️ </h2></summary>
-  
+
+
   <table>
   <tr>
     <td>
       <a href="https://gcbueno.gitbook.io/it-archive">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=ARQUIVO-TI&theme=tokyonight" alt="IT Archive GitBook" />
+      </a>
+    </td>
+  </tr>
+  </table>
+  
+  <table>
+     <tr>
+    <td>
+      <a href="https://github.com/gabriellabueno/toybox/">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=toybox&theme=tokyonight" alt="ToyBox" />
       </a>
     </td>
     <td>
@@ -85,6 +91,7 @@
     </td>
   </tr>
   <tr>
+  <tr>
     <td>
       <a href="https://github.com/gabriellabueno/saude-em-dia/">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=saude-em-dia&theme=tokyonight" alt="APP Saúde em Dia" />
@@ -93,18 +100,6 @@
     <td>
       <a href="https://github.com/gabriellabueno/controle-presenca-eventos/">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=controle-presenca-eventos&theme=tokyonight" alt="APP Event Track" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/gabriellabueno/spotify-imersao-alura/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=spotify-home&theme=tokyonight" alt="Spotify Landing Page" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/gabriellabueno/cat-jump">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=cat-jump&theme=tokyonight" alt="Cat Jump" />
       </a>
     </td>
   </tr>

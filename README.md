@@ -16,11 +16,12 @@
 
 - Systems Analysis and Development Student
 
-- Bachelor's in Psychology   
+- Automation and Integration Developer at TalkBI
 
 - Technical Support Background
 
-- Automation and Integration Developer at TalkBI
+- Bachelor's in Psychology   
+
 
 
 <br>
@@ -37,25 +38,29 @@
 
 </div>
 
-  ### Front-end
+### Front-end
 - HTML / CSS
 - JavaScript
 - Thymeleaf
 - Bootstrap
 
 ### Programming Languages
+- Java
 - C
 - C++
-- Java
 
 ### Technologies
 - MySQL
-- Spring Boot
-- Android / Mobile Development
+- Spring Boot / Spring Framework
+- Mobile Development (Android)
 - n8n
 - Dify (AI)
 - Git
-- Windows / Linux
+
+ ### Technical Support 
+- Windows and Linux Operating Systems
+- Computer Network
+- Hardware
 
 </details>
 

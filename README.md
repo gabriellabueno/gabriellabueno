@@ -14,7 +14,7 @@
 </a>
 
 
-- Systems Analysis and Development Student
+- Full Stack Dev
 
 - Technical Support Background
 
@@ -56,7 +56,7 @@
 - Git
 
  ### Technical Support 
-- Windows and Linux Operating Systems
+- Windows and Linux 
 - Computer Network
 - Hardware
 
@@ -74,7 +74,7 @@
   <tr>
     <td>
       <a href="https://gcbueno.gitbook.io/it-archive">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=ARQUIVO-TI&theme=tokyonight" alt="IT Archive GitBook" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=gabriellabueno&repo=ARQUIVO-TI&theme=tokyonight" alt="IT Archive GitBook" />
       </a>
     </td>
   </tr>
@@ -84,12 +84,12 @@
      <tr>
     <td>
       <a href="https://github.com/gabriellabueno/toybox/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=toybox&theme=tokyonight" alt="ToyBox" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=gabriellabueno&repo=toybox&theme=tokyonight" alt="ToyBox" />
       </a>
     </td>
     <td>
       <a href="https://github.com/gabriellabueno/controle-de-acesso/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=controle-de-acesso&theme=tokyonight" alt="Controle de Acesso" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=gabriellabueno&repo=controle-de-acesso&theme=tokyonight" alt="Controle de Acesso" />
       </a>
     </td>
   </tr>
@@ -97,12 +97,12 @@
   <tr>
     <td>
       <a href="https://github.com/gabriellabueno/saude-em-dia/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=saude-em-dia&theme=tokyonight" alt="APP Saúde em Dia" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=gabriellabueno&repo=saude-em-dia&theme=tokyonight" alt="APP Saúde em Dia" />
       </a>
     </td>
     <td>
       <a href="https://github.com/gabriellabueno/controle-presenca-eventos/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellabueno&repo=controle-presenca-eventos&theme=tokyonight" alt="APP Event Track" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=gabriellabueno&repo=controle-presenca-eventos&theme=tokyonight" alt="APP Event Track" />
       </a>
     </td>
   </tr>

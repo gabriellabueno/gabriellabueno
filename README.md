@@ -24,7 +24,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellabueno&layout=donut&theme=tokyonight)](https://github.com/gabriellabueno/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gabriellabueno&layout=donut&theme=tokyonight)](https://github.com/gabriellabueno/github-readme-stats)
 
  <br>
 

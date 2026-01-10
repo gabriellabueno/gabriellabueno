@@ -16,8 +16,6 @@
 
 - Systems Analysis and Development Student
 
-- Automation and Integration Developer at TalkBI
-
 - Technical Support Background
 
 - Bachelor's in Psychology   

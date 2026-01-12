@@ -14,7 +14,7 @@
 </a>
 
 
-- Java dev, Linux nerd
+- Software Developer
 
 - Technical Support Background
 

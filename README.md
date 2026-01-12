@@ -119,6 +119,8 @@ A comprehensive GitBook built with Markdown, designed to document my academic jo
 - `Java:` Core Concepts; Advanced Java; Spring Boot  
 - `Mathematics:` Statistics; Linear Programming  
 
+<div align="center">
+
   <table>
   <tr>
     <td>
@@ -128,6 +130,8 @@ A comprehensive GitBook built with Markdown, designed to document my academic jo
     </td>
   </tr>
   </table>
+
+</div>
 
 > [!NOTE]
 > This repository and all its documentation are written in my native language, Brazilian Portuguese.

@@ -14,7 +14,7 @@
 </a>
 
 
-- Full Stack Dev
+- Java dev, Linux nerd
 
 - Technical Support Background
 
@@ -27,6 +27,29 @@
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gabriellabueno&layout=donut&theme=tokyonight)](https://github.com/gabriellabueno/github-readme-stats)
 
  <br>
+
+
+### 💾  IT ARCHIVE
+
+A comprehensive GitBook built with Markdown, designed to document my academic journey, core disciplines, and complementary technical studies. What started as a collection of basic IT notes has evolved into a structured knowledge base covering complex concepts, mirroring my professional and academic growth.
+
+
+**Knowledge Areas**
+
+- `Computer Science:` Hardware; Operating Systems; Networking; Distributed Systems  
+- `Programming:` Software Development; Data Structures; Relational Databases; UML Diagrams, Mobile Programming  
+- `Java:` Core Concepts; Advanced Java; Spring Boot  
+- `Mathematics:` Statistics; Linear Programming  
+
+  <table>
+  <tr>
+    <td>
+      <a href="https://gcbueno.gitbook.io/it-archive">
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=gabriellabueno&repo=ARQUIVO-TI&theme=tokyonight" alt="IT Archive GitBook" />
+      </a>
+    </td>
+  </tr>
+  </table>
 
 
 ---
@@ -69,16 +92,6 @@
 <details>
   <summary><h2> Projects 🛠️ </h2></summary>
 
-
-  <table>
-  <tr>
-    <td>
-      <a href="https://gcbueno.gitbook.io/it-archive">
-        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=gabriellabueno&repo=ARQUIVO-TI&theme=tokyonight" alt="IT Archive GitBook" />
-      </a>
-    </td>
-  </tr>
-  </table>
   
   <table>
      <tr>

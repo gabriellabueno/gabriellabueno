@@ -14,6 +14,8 @@
 </a>
 
 
+- FQA Game Tester
+
 - Software Developer
 
 - Technical Support Background
